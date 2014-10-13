@@ -1,0 +1,17 @@
+.settings/*
+build/*
+*.class
+**/.svn/*
+.classpath
+.project
+/target
+.springBeans
+*.jar
+*.jasper
+rebel.xml
+src/com/proteinol/sifpo/config/desarrollo/datasource.properties
+src/com/proteinol/sifpo/config/pruebas/datasource.properties
+/sonar-project.properties
+/.sonar/*
+/bin/
+/build/
